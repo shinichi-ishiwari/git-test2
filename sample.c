@@ -6,5 +6,8 @@ int main(){
      printf("git status : Gitの状態を確認\n");
      printf("git add : ファイルのステージ\n");
      printf("git commit : コミットする \n");
+     printf("git log: コミット履歴を見る\n");
+     printf("git push : プッシュする\n");
+     branch_name();
      return 0;
 }
